@@ -1,0 +1,25 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+.Banner-container {
+  background-color: rgb(255, 77, 107);
+  height: 300px;
+}
+.image-size {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
+  border-radius: 50%;
+}
+.text-align {
+  text-align: center;
+}
+.amount-container {
+  padding-top: 50px;
+  width: 500px;
+  background-color: red;
+  margin: auto;
+  position: relative;
+  bottom: 20px;
+}
